@@ -135,11 +135,6 @@ h2 {
   height: auto;  
   border-radius: 50%;  
 }
-.profile-pic {
-  width: 150px;
-  height: auto;
-  border-radius: 50%;
-}
 @media (max-width: 768px) {
   .profile-pic {
       width: 100px;  
