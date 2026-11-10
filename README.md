@@ -1,4 +1,4 @@
-# CODESOFT
+# CODESOFT_Project
 
 # 🎵 Music Website Landing Page
 
