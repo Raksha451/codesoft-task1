@@ -24,6 +24,10 @@ This project demonstrates fundamental frontend development skills, including web
 - **HTML5** - Structures the webpage and its content.
 - **CSS3** - Styles the landing page and its visual elements.
 
+## Screenshot of Landing page website
+<img width="1907" height="927" alt="image" src="https://github.com/user-attachments/assets/1f93ac18-bb79-434b-80b5-f1224434b069" />
+
+
 ## 📂 Project Structure
 
 ```text
